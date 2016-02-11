@@ -1,0 +1,9 @@
+int a;
+printf("hi");
+//hi there
+/*hi   */
+a+b;
+int c;
+c*a+b-c/d;
+a||b;
+return 0;
